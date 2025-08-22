@@ -6,20 +6,11 @@
     "website": "",
     "summary": "Graduate student pursuing MSc in Business Information Systems at City University of Hong Kong with a strong background in Software Engineering and Finance. Experienced in AI-powered financial systems, image processing, and EEG denoising, with multiple publications in EI-indexed journals and conferences. Skilled in full-stack development, DevOps, and data optimization, with internships in fintech and digital management platforms.",
     "location": {
-      "address": "",
-      "postalCode": "",
       "city": "Hong Kong",
-      "countryCode": "CN",
-      "region": ""
-    },
-    "profiles": [
-      {
-        "network": "WeChat",
-        "username": "NeoX2003",
-        "url": ""
-      }
-    ]
+      "countryCode": "CN"
+    }
   },
+
   "work": [
     {
       "company": "Industrial Digital Financial Services Co., Ltd.",
@@ -80,33 +71,6 @@
       ]
     }
   ],
-  "skills": [
-    {
-      "name": "Programming Languages",
-      "level": "Advanced",
-      "keywords": ["Java", "Python"]
-    },
-    {
-      "name": "Frontend Development",
-      "level": "Advanced",
-      "keywords": ["Vue.js", "HTML", "CSS", "JavaScript"]
-    },
-    {
-      "name": "Backend Development",
-      "level": "Advanced",
-      "keywords": ["Spring Cloud", "Spring Boot", "Django", "REST API design"]
-    },
-    {
-      "name": "Databases",
-      "level": "Advanced",
-      "keywords": ["MySQL", "Oracle", "Neo4J"]
-    },
-    {
-      "name": "Other Skills",
-      "level": "Advanced",
-      "keywords": ["PyTorch", "Artificial Intelligence Algorithms", "Web scraping", "Software testing", "Project quality management", "Git"]
-    }
-  ],
   "languages": [
     {
       "language": "Mandarin",
@@ -156,17 +120,8 @@
       "summary": "Developed an efficient encryption algorithm for electronic health records, enhancing security while preserving user privacy. Conducted thorough testing and optimization for real-time data encryption."
     }
   ],
-  "presentations": [
-    {
-      "name": "Research on Fast Encryption of Electronic Health Record Data Based on Privacy Protection",
-      "event": "EI Conference on IoT and Big Data Technologies for Health Care",
-      "date": "2022-11-01",
-      "location": "",
-      "description": "Presented research on an efficient encryption algorithm for electronic health records, focusing on privacy protection and real-time data encryption."
-    }
-  ],
   "teaching": [],
-  "portfolio": [
+  "research project": [
     {
       "name": "Medical AI for ECG Image Recognition",
       "category": "Research Project",
@@ -180,6 +135,33 @@
       "date": "2022-12-31",
       "url": "",
       "description": "Developed a personalized image aesthetics assessment framework to evaluate image enhancement algorithms like denoising, deraining, and defogging, providing a foundation for improving algorithm performance."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "Advanced",
+      "keywords": ["Java", "Python"]
+    },
+    {
+      "name": "Frontend Development",
+      "level": "Advanced",
+      "keywords": ["Vue.js", "HTML", "CSS", "JavaScript"]
+    },
+    {
+      "name": "Backend Development",
+      "level": "Advanced",
+      "keywords": ["Spring Cloud", "Spring Boot", "Django", "REST API design"]
+    },
+    {
+      "name": "Databases",
+      "level": "Advanced",
+      "keywords": ["MySQL", "Oracle", "Neo4J"]
+    },
+    {
+      "name": "Other Skills",
+      "level": "Advanced",
+      "keywords": ["PyTorch", "Artificial Intelligence Algorithms", "Web scraping", "Software testing", "Project quality management", "Git"]
     }
   ]
 }
