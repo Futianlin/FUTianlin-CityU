@@ -1,152 +1,185 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "FU Tianlin",
+    "email": "tianlinfu2-c@my.cityu.edu.hk",
+    "phone": "086-15960935014",
+    "website": "",
+    "summary": "Graduate student pursuing MSc in Business Information Systems at City University of Hong Kong with a strong background in Software Engineering and Finance. Experienced in AI-powered financial systems, image processing, and EEG denoising, with multiple publications in EI-indexed journals and conferences. Skilled in full-stack development, DevOps, and data optimization, with internships in fintech and digital management platforms.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Hong Kong",
+      "countryCode": "CN",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
-      },
-      {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "network": "WeChat",
+        "username": "NeoX2003",
+        "url": ""
       }
     ]
   },
-  "work": [],
-  "education": [
+  "work": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "company": "Industrial Digital Financial Services Co., Ltd.",
+      "position": "Fintech Intern - Retail and Wealth Center Content Management Platform Construction",
+      "website": "",
+      "startDate": "2025-03-03",
+      "endDate": "2025-03-28",
+      "summary": "Participated in requirements research for an enterprise-level marketing strategy operation management platform. Developed back-end interfaces for the Content Center, including message module CRUD functions, timed deletion tasks, and unit testing. Wrote interface documents and user help guides."
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
+      "company": "Industrial Digital Financial Services Co., Ltd.",
+      "position": "Fintech Intern - Call Center Customer Relationship Management Platform Construction",
+      "website": "",
+      "startDate": "2024-07-01",
+      "endDate": "2024-11-30",
+      "summary": "Assisted in designing and developing system functions based on Société Générale’s JUP platform. Optimized 168 SQL queries to improve database query speed. Participated in data standardization, cleansing, and standardizing over 600 data items. Learned and applied Docker and Kubernetes, contributing to the initial optimization of the bank’s DevOps process."
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "company": "Industrial Digital Financial Services Co., Ltd.",
+      "position": "Fintech Intern - Human Resources Department",
+      "website": "",
+      "startDate": "2023-07-01",
+      "endDate": "2023-08-31",
+      "summary": "Developed and refined training systems, overseeing training for over 160 new employees. Conducted software requirement research for digital management platforms, enhancing course assessment frameworks. Authored a comprehensive 20,000-word analysis report on training outcomes."
     }
   ],
-  "skills": [],
-  "languages": [],
+  "education": [
+    {
+      "institution": "City University of Hong Kong",
+      "area": "Business Information Systems (Financial and Intelligent Technology Stream)",
+      "studyType": "MSc",
+      "startDate": "2025-09-01",
+      "endDate": "2026-07-31",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Minjiang University",
+      "area": "Software Engineering",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2021-09-01",
+      "endDate": "2025-06-30",
+      "gpa": "3.76/5.0 (89.03/100)",
+      "courses": [
+        "Ranking: 1/63",
+        "Scholarships and Honors: National Scholarship of China (2023-2024, Top 0.2% Nationwide), First Prize, National Level, 17th Chinese Collegiate Computing Competition (2024), First Class Scholarship (2022-2025, three consecutive years), Excellent Class Leader & Merit Student (2021-2024, three consecutive years), Outstanding Graduate, Excellent Graduation Thesis (2024-2025)"
+      ]
+    },
+    {
+      "institution": "Minjiang University",
+      "area": "Finance",
+      "studyType": "Minor",
+      "startDate": "2021-09-01",
+      "endDate": "2025-06-30",
+      "gpa": "3.87/5.0 (88.82/100)",
+      "courses": [
+        "Ranking: 1/63"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "Advanced",
+      "keywords": ["Java", "Python"]
+    },
+    {
+      "name": "Frontend Development",
+      "level": "Advanced",
+      "keywords": ["Vue.js", "HTML", "CSS", "JavaScript"]
+    },
+    {
+      "name": "Backend Development",
+      "level": "Advanced",
+      "keywords": ["Spring Cloud", "Spring Boot", "Django", "REST API design"]
+    },
+    {
+      "name": "Databases",
+      "level": "Advanced",
+      "keywords": ["MySQL", "Oracle", "Neo4J"]
+    },
+    {
+      "name": "Other Skills",
+      "level": "Advanced",
+      "keywords": ["PyTorch", "Artificial Intelligence Algorithms", "Web scraping", "Software testing", "Project quality management", "Git"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Mandarin",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced (IELTS: 6.0, CET-4: 519, CET-6: 511)"
+    }
+  ],
   "interests": [],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "FinTechX: A Comprehensive AI-Powered Financial System",
+      "publisher": "EI-indexed conference",
+      "releaseDate": "2026-01-01",
+      "website": "",
+      "summary": "Designed system architecture based on Customer Journey Design, aligning features with user behavior stages. Built backend with Django (AI integration, quant analysis) and SpringCloud (microservices, high concurrency). Developed frontend using Vue.js for real-time data interaction. Ensured closed-loop data flow for user experience and functional coherence."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Benchmarking Single Image Dedusting",
+      "publisher": "Pending publication",
+      "releaseDate": "2025-12-31",
+      "website": "",
+      "summary": "Developed the Realistic Single Image Dust Removal (RSIDR) dataset for image dedusting. Conducted extensive experiments to evaluate image enhancement methods using full-reference and no-reference IQA techniques. Authored a paper analyzing results and suggesting future research directions."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "HRTS: Hierarchical Rauch-Tung-Striebel Smoother With Online Learning Priors for EEG Denoising",
+      "publisher": "Journal of Network Intelligence",
+      "releaseDate": "2024-01-01",
+      "website": "https://bit.kuas.edu.tw/~jni/2024/vol9/s2/03.JNI-S-2023-06-009.pdf",
+      "summary": "Implemented advanced Kalman filter techniques (HRTS) for EEG signal denoising with online learning-based priors. Led experimental design and data analysis, achieving significant improvements in noise reduction performance."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Representing Scenes as Compositional Generative Neural Feature Fields Based on GIRAFFE for 3D Reconstruction of Classroom Scenes",
+      "publisher": "International Conference on Intelligent Information Hiding and Multimedia Signal Processing",
+      "releaseDate": "2022-12-31",
+      "website": "https://link.springer.com/chapter/10.1007/978-981-99-0105-0_21",
+      "summary": "Led the project as first author, leveraging the GIRAFFE framework to develop compositional generative neural feature fields, improving accuracy and efficiency in 3D reconstruction of classroom scenes."
+    },
+    {
+      "name": "Research on Fast Encryption of Electronic Health Record Data Based on Privacy Protection",
+      "publisher": "EI Conference on IoT and Big Data Technologies for Health Care, LNICST Volume 501",
+      "releaseDate": "2022-11-30",
+      "website": "https://link.springer.com/chapter/10.1007/978-3-031-33545-7_18",
+      "summary": "Developed an efficient encryption algorithm for electronic health records, enhancing security while preserving user privacy. Conducted thorough testing and optimization for real-time data encryption."
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "Research on Fast Encryption of Electronic Health Record Data Based on Privacy Protection",
+      "event": "EI Conference on IoT and Big Data Technologies for Health Care",
+      "date": "2022-11-01",
+      "location": "",
+      "description": "Presented research on an efficient encryption algorithm for electronic health records, focusing on privacy protection and real-time data encryption."
     }
   ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
+  "teaching": [],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
+      "name": "Medical AI for ECG Image Recognition",
+      "category": "Research Project",
+      "date": "2023-12-31",
       "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "description": "Annotated a dataset of ECG images to train deep learning models for detecting cardiac conditions. Designed and optimized neural network models to emulate medical expert diagnostic reasoning, improving automated ECG interpretation accuracy."
+    },
+    {
+      "name": "Personalized Image Aesthetics Research",
+      "category": "Research Project",
+      "date": "2022-12-31",
+      "url": "",
+      "description": "Developed a personalized image aesthetics assessment framework to evaluate image enhancement algorithms like denoising, deraining, and defogging, providing a foundation for improving algorithm performance."
     }
   ]
 }
