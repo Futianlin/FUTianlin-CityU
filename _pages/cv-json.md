@@ -3,8 +3,8 @@ layout: archive
 title: "CV"
 permalink: /cv-json/
 author_profile: false
-redirect_from:
-  - /resume-json
+# redirect_from:
+#   - /resume-json
 ---
 
 {% include base_path %}
@@ -12,5 +12,5 @@ redirect_from:
 {% include cv-template.html %}
 
 <div class="cv-download-links">
-  <a href="https://github.com/Futianlin/FUTianlin-CityU/tree/master/files/FU Tianlin CV.pdf" class="btn btn--primary">Download CV as PDF</a>
+  <a href="/files/FU Tianlin CV.pdf" class="btn btn--primary">Download CV as PDF</a>
 </div>
