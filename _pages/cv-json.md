@@ -12,5 +12,5 @@ author_profile: false
 {% include cv-template.html %}
 
 <div class="cv-download-links">
-  <a href="/files/FU Tianlin CV.pdf" class="btn btn--primary">Download CV as PDF</a>
+  <a href="tree/master/files/FU Tianlin CV.pdf" class="btn btn--primary">Download CV as PDF</a>
 </div>
