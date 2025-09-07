@@ -15,17 +15,25 @@ Education
 ======
 - MSc in Business Information Systems (Financial and Intelligent Technology Stream)
 --  **University**: City University of Hong Kong 
---  **Year**: 09/2025 - 06/2026
+
+​	--  **Year**: 09/2025 - 06/2026
+
 - Bachelor of Software Engineering
---  **University**: Minjiang University
---  **Year**: 09/2021 - 06/2025
-- Bachelor of finance (Minor)
---  **University**: Minjiang University
---  **Year**: 09/2023 - 06/2025
   
-Research Assistant  [HEC Paris](https://www.hec.edu/en)
+
+​	--  **University**: Minjiang University
+
+​	--  **Year**: 09/2021 - 06/2025
+
+- Bachelor of finance (Minor)
+  
+
+​	--  **University**: Minjiang University
+
+​	--  **Year**: 09/2023 - 06/2025
+
+Research Assistant  [HEC Paris](https://www.hec.edu/en) —— 07/2025 - Utill Now
 ======
-07/2025 - Utill now
 ### Project: Graph Representation Learning for Multi-Source Heterogeneous Information Fusion and Stock Time Series Analysis with [Professor Xitong LI](https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/li-xitong)
 
 - Conducted experiments, including data preprocessing, constructing graph-based models, and evaluating model performance.
