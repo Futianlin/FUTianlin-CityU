@@ -11,10 +11,10 @@ My name is Fu Tianlin.  I currently pursuing my MSc in Business Information Syst
 
 My academic and research background ranges from software engineering, finance, to applied AI. During my undergraduate studies, I engaged in various research projects, including: developing the RSIDR benchmark dataset for single-image dedusting, publishing on EEG denoising using Kalman filter techniques and privacy-preserving encryption for electronic health records, and leading a project on 3D scene reconstruction using the GIRAFFE framework. These experiences have equipped me with strong technical skills (Python, Java, PyTorch, Vue.js), research communication abilities, and a passion for solving real-world problems through intelligent systems and data-driven methods.
 
-Research Assistant —— HEC Paris
+Research Assistant —— [HEC Paris](https://www.hec.edu/en)
 ======
 
-### Project: Graph Representation Learning for Multi-Source Heterogeneous Information Fusion and Stock Time Series Analysis with [Professor Xitong LI]: https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/li-xitong
+### Project: Graph Representation Learning for Multi-Source Heterogeneous Information Fusion and Stock Time Series Analysis with [Professor Xitong LI](https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/li-xitong)
 
 - Conducted experiments, including data preprocessing, constructing graph-based models, and evaluating model performance.
 - Reviewed relevant literature to understand current methods in multi-source heterogeneous information fusion and graph representation learning.
