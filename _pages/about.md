@@ -19,6 +19,13 @@ My academic and research background ranges from software engineering, finance, t
 - Reviewed relevant literature to understand current methods in multi-source heterogeneous information fusion and graph representation learning.
 - Prepared and delivered reports summarizing research progress, key findings, and experimental results to the research team.
 
+[CityU Research course](https://www.cityu.edu.hk/catalogue/pg/202526/course/IS6912.htm) Research Project  *—— 09/2025 - 05/2026 *
+======
+### Project: AI Agent Systems for Enterprise CRM & Marketing supervised by [Prof. YUE Wei Thoo](https://www.cb.cityu.edu.hk/staff/weityue)
+
+- Will design and implement AI agent systems for enterprise Customer Relationship Management (CRM) and marketing automation, focusing on personalized customer engagement strategies.
+- Will investigate AI agent security, focusing on adversarial attack vulnerabilities and mitigation strategies to ensure robust and secure CRM system operations.
+  
 Education
 ======
 
