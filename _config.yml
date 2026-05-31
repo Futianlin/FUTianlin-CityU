@@ -13,7 +13,7 @@ title                    : "FU Tianlin"
 title_separator          : "-"
 name                     : &name "FU Tianlin"
 description              : &description "MSc Business Information Systems student at City University of Hong Kong with a focus on Financial and Intelligent Technology. Experienced in AI-powered financial systems, image processing, and software engineering."
-url                      : https://futianlin.github.io/FUTianlin-CityU/ # the base hostname & protocol for your site
+url                      : https://futianlin.github.io/FUTianlin-UT/ # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 # repository               : "academicpages/academicpages.github.io"
 
