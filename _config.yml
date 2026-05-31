@@ -23,11 +23,11 @@ author:
   avatar           : "profile.png"
   name             : "FU Tianlin"
   pronouns         : # example: "she/her"  
-  bio              : "MSc Business Information Systems student at City University of Hong Kong. Skilled in Applied AI, fintech, and software engineering with a research background in Graph Representation Learning and studies related to EEG singnal."
-  location         : "Hong Kong, China"
-  employer         : "City University of Hong Kong"
+  bio              : "PhD Candidate of University of Twente (UT), MSc Business Information Systems student at City University of Hong Kong."
+  location         : "Enschede, Netherlands"
+  employer         : "University of Twente"
   uri              : # URL
-  email            : "tianlinfu2-c@my.cityu.edu.hk" 
+  email            : "futianlin2003@gmail.com" 
 
   # Academic websites
   academia         : # URL
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username - Update with your LinkedIn if available
+  linkedin         : https://www.linkedin.com/in/tianlin-fu-0474a1271/
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
