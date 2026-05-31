@@ -7,52 +7,44 @@ redirect_from:
   - /about.html
 ---
 
-My name is Fu Tianlin.  I currently pursuing my MSc in Business Information Systems (Financial and Intelligent Technology Stream) at the City University of Hong Kong and will graduate in July 2026. Hope you are interested in taking me as your doctoral student in fall 2026.
+My name is Fu Tianlin. I am currently pursuing my PhD in Robotics Technology at the University of Twente (Faculty of Electrical Engineering, Mathematics and Computer Science). Supervised by Prof. [Stefano Stramigioli](https://www.utwente.nl/en/research/our-scientists/stramigioli/) and [Dr. Kenan Niu](https://research.utwente.nl/en/persons/kenan-niu/), my research focuses on human-robot interaction, smart sensing, and EEG-based control algorithms.
 
-My academic and research background ranges from software engineering, finance, to applied AI. During my undergraduate studies, I engaged in various research projects, including: developing the RSIDR benchmark dataset for single-image dedusting, publishing on EEG denoising using Kalman filter techniques and privacy-preserving encryption for electronic health records, and leading a project on 3D scene reconstruction using the GIRAFFE framework. These experiences have equipped me with strong technical skills (Python, Java, PyTorch, Vue.js), research communication abilities, and a passion for solving real-world problems through intelligent systems and data-driven methods.
 
-[HEC Paris](https://www.hec.edu/en) Research Assistant  *—— 07/2025 - Until Now*
-======
-### Project: Graph Representation Learning for Multi-Source Heterogeneous Information Fusion and Stock Time Series Analysis with [Professor Xitong LI](https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/li-xitong)
-
-- Conducted experiments, including data preprocessing, constructing graph-based models, and evaluating model performance.
-- Reviewed relevant literature to understand current methods in multi-source heterogeneous information fusion and graph representation learning.
-- Prepared and delivered reports summarizing research progress, key findings, and experimental results to the research team.
-
-[CityU Research Course](https://www.cityu.edu.hk/catalogue/pg/202526/course/IS6912.htm) Research Project  *—— 09/2025 - 05/2026*
-======
-### Project: AI Agent Systems for Enterprise CRM & Marketing supervised by [Prof. YUE Wei Thoo](https://www.cb.cityu.edu.hk/staff/weityue)
-
-- Will design and implement AI agent systems for enterprise Customer Relationship Management (CRM) and marketing automation, focusing on personalized customer engagement strategies.
-- Will investigate AI agent security, focusing on adversarial attack vulnerabilities and mitigation strategies to ensure robust and secure CRM system operations.
-  
 Education
 ======
+- **Doctor of Philosophy in Robotics**
+
+  University: [University of Twente](https://www.utwente.nl/en/)
+
+  Year: 10/2026 - 10/2030
+  Supported by: Chinese Scholarship Council
 
 - **MSc in Business Information Systems (Financial and Intelligent Technology Stream)**
 
   University: [City University of Hong Kong](https://www.cityu.edu.hk/)
 
   Year: 09/2025 - 06/2026
+  GPA: 3.99/4.30
 
 - **Bachelor of Software Engineering**
 
   University: Minjiang University
 
   Year: 09/2021 - 06/2025
+  CGPA: 89.03/100
 
-- **Bachelor of finance (Minor)**
+- **Bachelor of Finance (Minor)**
 
   University: Minjiang University
 
   Year: 09/2023 - 06/2025
+  CGPA: 88.82/100
 
 Research Interests
 ======
 
 - Brain Computer Interface
+- Non-invasive EEG signal processing
 - Graph Neural Network
-- Deep Learning in Digital Economy
-- Business Intelligence, Recommender System
-- Multi-modal Financial Data Modelling
-- Robots and AR
+- Robotics and AR
+- Multi-agent Systems
